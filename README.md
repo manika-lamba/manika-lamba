@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manika-lamba&layout=compact)](https://github.com/manika-lamba/github-readme-stats)
+
 ---
 
 ### 📺 Latest YouTube Videos
@@ -34,4 +36,13 @@ Here are some ideas to get you started:
 
 ➡️ [more videos...](https://youtube.com/channel/UChUjrjKX2pONUZrquNdifUA)
 
+---
 
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+ ![Manika](https://github-readme-stats.vercel.app/api?username=manika-lamba&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=radical)
+ 
+ 
