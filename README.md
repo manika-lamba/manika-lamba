@@ -37,18 +37,6 @@
 " target="_blank"><img src="http://img.youtube.com/vi/WcMnKg9IpgY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=o2UyHXJx-Vk&t=16s
-" target="_blank"><img src="http://img.youtube.com/vi/o2UyHXJx-Vk&t=16s/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=REQj4PNlaHw&t=77s
-" target="_blank"><img src="http://img.youtube.com/vi/REQj4PNlaHw&t=77s/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=cIUjznRFZc0&t=1s
-" target="_blank"><img src="http://img.youtube.com/vi/cIUjznRFZc0&t=1s/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=w07LlBFrMCY
 " target="_blank"><img src="http://img.youtube.com/vi/w07LlBFrMCY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
