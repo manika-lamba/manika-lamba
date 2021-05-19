@@ -4,8 +4,6 @@
 
 ### I'm a PhD candidate at University of Delhi and Editor-in-Chief of the International Journal of Library and Information Services (IJLIS), IGI Global. 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my first authored book
 - 👯 I’m looking to collaborate with other researchers in computational social science field
 - 📫 How to reach me: lambamanika07@gmail.com
