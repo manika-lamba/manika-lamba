@@ -2,7 +2,7 @@
  [![Website](https://img.shields.io/website?label=manika-lamba.github.io&style=for-the-badge&url=https%3A%2F%2Fmanika-lamba.github.io)](https://manika-lamba.github.io)
  [![Twitter Follow](https://img.shields.io/twitter/follow/lamba_manika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lamba_manika)
 
-### I'm a PhD candidate at University of Delhi and Editor-in-Chief of the International Journal of Library and Information Services (IJLIS), IGI Global ans Newsletter Officer for Association for Information Science and Technology (ASIS&T) South Asia Chapter. 
+### I'm a PhD candidate at University of Delhi and Editor-in-Chief of the International Journal of Library and Information Services (IJLIS), IGI Global and Newsletter Officer for Association for Information Science and Technology (ASIS&T) South Asia Chapter. 
 
 - 🔭 I’m currently working on my first authored book
 - 👯 I’m looking to collaborate with other researchers in computational social science field
