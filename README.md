@@ -62,6 +62,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manika-lamba)  
 
-![Profile views](https://gpvc.arturio.dev/manika-lamba)  
+![Profile views](https://gpvc.arturio.dev/[manika-lamba])  
  
  
