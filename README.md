@@ -27,7 +27,8 @@
 ---
 ### Books
 
-[Text Mining for Information Professionals: An Uncharted Territory](https://www.springer.com/in/book/9783030850845)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/textmining-infopros)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://textmining-infopros.github.io/)
+- [Text Mining for Information Professionals: An Uncharted Territory](https://www.springer.com/in/book/9783030850845), Springer Nature[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/textmining-infopros)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://textmining-infopros.github.io/)
+- [Technological Advancements in Library Service Innovation](https://www.igi-global.com/book/technological-advancements-library-service-innovation/274985), IGI Global
 
 ### Currents Projects
 
