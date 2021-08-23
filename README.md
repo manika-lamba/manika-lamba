@@ -2,7 +2,7 @@
  [![Website](https://img.shields.io/website?label=manika-lamba.github.io&style=for-the-badge&url=https%3A%2F%2Fmanika-lamba.github.io)](https://manika-lamba.github.io)
  [![Twitter Follow](https://img.shields.io/twitter/follow/lamba_manika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lamba_manika)
 
-### I'm a PhD Candidate in Library and Information Science at University of Delhi. I am also serving as the Elected Standing Committee Member of IFLA Science and Technology Libraries section (2021-2025); Editor-in-Chief of the International Journal of Library and Information Services (IJLIS), IGI Global; and Newsletter Officer for Association for Information Science and Technology (ASIS&T) South Asia Chapter. 
+### I'm a PhD Candidate in Library and Information Science at University of Delhi. I am also serving as the Elected Standing Committee Member of IFLA Science and Technology Libraries section (2021-2025); Editor-in-Chief of the International Journal of Library and Information Services (IJLIS), IGI Global; and Newsletter Officer & Webmaster for the Association for Information Science and Technology (ASIS&T) South Asia Chapter. 
 
 - 🔭 I’m currently working on my first authored book
 - 👯 I’m looking to collaborate with other researchers in computational social science field
@@ -25,6 +25,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manika-lamba&layout=compact)](https://github.com/manika-lamba/github-readme-stats)
 
 ---
+### Books
+
+[Text Mining for Information Professionals: An Uncharted Territory](https://www.springer.com/in/book/9783030850845)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/textmining-infopros)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://textmining-infopros.github.io/)
+
 ### Currents Projects
 
 [Analysis of COVID-19 Research](https://manika-lamba.github.io/project/covid/)
