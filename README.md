@@ -2,9 +2,9 @@
  [![Website](https://img.shields.io/website?label=manika-lamba.github.io&style=for-the-badge&url=https%3A%2F%2Fmanika-lamba.github.io)](https://manika-lamba.github.io)
  [![Twitter Follow](https://img.shields.io/twitter/follow/lamba_manika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lamba_manika)
 
-### I'm a PhD Candidate in Library and Information Science at University of Delhi. I am also serving as the Elected Standing Committee Member of IFLA Science and Technology Libraries section (2021-2025); Editor-in-Chief of the International Journal of Library and Information Services (IJLIS), IGI Global; and Newsletter Officer & Webmaster for the Association for Information Science and Technology (ASIS&T) South Asia Chapter. 
+### I'm a doctoral candidate in Library and Information Science at University of Delhi, India. I am also serving as the Chair of Professional Development Sub-Committee & Elected Standing Committee Member at IFLA Science and Technology Libraries section (2021-2025); Editor-in-Chief of the International Journal of Library and Information Services (IJLIS), IGI Global; and Newsletter Officer & Webmaster at the Association for Information Science and Technology (ASIS&T) South Asia Chapter. 
 
-- 🔭 I’m currently working on my first authored book
+- 🔭 I have just finished working on my first authored book - [Text Mining for Information Professionals: An Uncharted Territory](https://textmining-infopros.github.io/)
 - 👯 I’m looking to collaborate with other researchers in computational social science field
 - 📫 How to reach me: lambamanika07@gmail.com
 - 😄 Pronouns: She/her
