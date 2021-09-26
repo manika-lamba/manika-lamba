@@ -32,6 +32,7 @@
 
 ### Currents Projects
 
+[Dealing with COVID-19 and Saving People’s Lives in South Asia (SA) Areas and Beyond: A Health Informatics Promotion Project](https://manika-lamba.github.io/project/assist/)
 [Analysis of COVID-19 Research](https://manika-lamba.github.io/project/covid/)
 
 ---
