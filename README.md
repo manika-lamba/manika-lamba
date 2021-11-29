@@ -2,7 +2,7 @@
  [![Website](https://img.shields.io/website?label=manika-lamba.github.io&style=for-the-badge&url=https%3A%2F%2Fmanika-lamba.github.io)](https://manika-lamba.github.io)
  [![Twitter Follow](https://img.shields.io/twitter/follow/lamba_manika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lamba_manika)
 
-### I'm a doctoral candidate in Library and Information Science at University of Delhi, India. I am also serving as the Chair of Professional Development Sub-Committee & Elected Standing Committee Member at IFLA Science and Technology Libraries section (2021-2025); Editor-in-Chief of the International Journal of Library and Information Services (IJLIS), IGI Global; and Newsletter Officer & Webmaster at the Association for Information Science and Technology (ASIS&T) South Asia Chapter. 
+### I'm a doctoral candidate in Information Science at University of Delhi, India. My research focuses on information retrieval, digital libraries, social informatics, and scholarly communication using text mining, natural language processing, and machine learning techniques. I have worked extensively with textual data. My work combines qualitative and quantitative methods, including focus groups, survey and field experiments, and computational approaches.
 
 - 🔭 I have just finished working on my first authored book - [Text Mining for Information Professionals: An Uncharted Territory](https://textmining-infopros.github.io/)
 - 👯 I’m looking to collaborate with other researchers in computational social science field
@@ -32,8 +32,7 @@
 
 ### Currents Projects
 
-[Dealing with COVID-19 and Saving People’s Lives in South Asia (SA) Areas and Beyond: A Health Informatics Promotion Project](https://manika-lamba.github.io/project/assist/)
-[Analysis of COVID-19 Research](https://manika-lamba.github.io/project/covid/)
+[Dealing with COVID-19 and Saving People’s Lives in South Asia (SA) Areas and Beyond: A Health Informatics Promotion Project](https://manika-lamba.github.io/project/asist/)
 
 ---
 ### 📺 Latest YouTube Videos
@@ -49,7 +48,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-➡️ [more videos...](https://youtube.com/channel/UChUjrjKX2pONUZrquNdifUA)
+➡️ [more videos...](https://youtube.com/channel/UChUjrjKX2pONUZrquNdifUA) or https://manika-lamba.github.io/project/videos/
 
 ---
 
