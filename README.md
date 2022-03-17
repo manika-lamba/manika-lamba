@@ -34,9 +34,6 @@
 
 - [Dealing with COVID-19 and Saving People’s Lives in South Asia (SA) Areas and Beyond: A Health Informatics Promotion Project](https://manika-lamba.github.io/project/asist/)
 - [Enabling interactive exploration of rich scientific multigraphs with Neo4j Bloom](https://s4.scienceofscience.org/announcement/microgrants)
-- Gender Research in Political Science: Topics, Trends and Networks
-- An Experimental Design on the Relationship between COVID-19 Misinformation and Protective Behavior
-- Thanking the world: Investigating sources of support and sentiments in ETDs
 
 ---
 ### 📺 Latest YouTube Videos
