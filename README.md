@@ -32,6 +32,7 @@
 
 ### Currents Projects
 
+- [Down the rabbit hole: Polarization and information segregation on YouTube](http://janlo.de/bigssscss/social-cohesion-2022-groningen/projects/#youtube)
 - [Dealing with COVID-19 and Saving People’s Lives in South Asia (SA) Areas and Beyond: A Health Informatics Promotion Project](https://manika-lamba.github.io/project/asist/)
 - [Enabling interactive exploration of rich scientific multigraphs with Neo4j Bloom](https://s4.scienceofscience.org/announcement/microgrants)
 
