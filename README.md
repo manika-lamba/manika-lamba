@@ -4,7 +4,7 @@
 
 ### I have completed my Ph.D. in Information Science from University of Delhi, India in 2023. My research focuses on information retrieval, digital libraries, social informatics, and scholarly communication using text mining, natural language processing, and machine learning techniques. I have worked extensively with textual data. My work combines qualitative and quantitative methods, including focus groups, survey and field experiments, and computational approaches.
 
-- 🔭 I have just finished working on my first authored book - [Text Mining for Information Professionals: An Uncharted Territory](https://textmining-infopros.github.io/)
+- 🔭 Know more about my first authored book - [Text Mining for Information Professionals: An Uncharted Territory](https://textmining-infopros.github.io/)
 - 👯 I’m looking to collaborate with other researchers in computational social science field
 - 📫 How to reach me: lambamanika07@gmail.com
 - 😄 Pronouns: She/her
