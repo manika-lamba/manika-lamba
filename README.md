@@ -2,7 +2,7 @@
  [![Website](https://img.shields.io/website?label=manika-lamba.github.io&style=for-the-badge&url=https%3A%2F%2Fmanika-lamba.github.io)](https://manika-lamba.github.io)
  [![Twitter Follow](https://img.shields.io/twitter/follow/lamba_manika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lamba_manika)
 
-### I have completed my Ph.D. in Information Science from University of Delhi, India in 2023. My research focuses on information retrieval, digital libraries, social informatics, and scholarly communication using text mining, natural language processing, and machine learning techniques. I have worked extensively with textual data. My work combines qualitative and quantitative methods, including focus groups, survey and field experiments, and computational approaches.
+### I am Lecturer at SOL, University of Delhi where I am teaching 'M-108 Information Storage & Retrieval System' paper to MLIS students for the academic year 2022-2023. I have earned my Ph.D. in Information Science from University of Delhi, India in 2023. My research focuses on information retrieval, digital libraries, social informatics, and scholarly communication using text mining, natural language processing, and machine learning techniques. I have worked extensively with textual data. My work combines qualitative and quantitative methods, including focus groups, survey and field experiments, and computational approaches.
 
 - 🔭 Know more about my first authored book - [Text Mining for Information Professionals: An Uncharted Territory](https://textmining-infopros.github.io/)
 - 👯 I’m looking to collaborate with other researchers in computational social science field
