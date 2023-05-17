@@ -5,6 +5,7 @@
 ### I am Lecturer at the Department of Library & Information Science, School of Open Learning (SOL), University of Delhi where I am teaching 'M-108 Information Storage & Retrieval System' paper to MLIS students for the academic year 2022-2023. I have earned my Ph.D. in Information Science from University of Delhi, India in 2023. My research focuses on information retrieval, digital libraries, social informatics, and scholarly communication using text mining, natural language processing, and machine learning techniques. I have worked extensively with textual data. My work combines qualitative and quantitative methods, including focus groups, survey and field experiments, and computational approaches.
 
 - 🔭 Know more about my first authored book - [Text Mining for Information Professionals: An Uncharted Territory](https://textmining-infopros.github.io/)
+- 🔭 Know more about the [Courses](https://manika-lamba.gitbook.io/courses/courses/introduction) I have taught
 - 👯 I’m looking to collaborate with other researchers in computational social science field
 - 📫 How to reach me: lambamanika07@gmail.com
 - 😄 Pronouns: She/her
