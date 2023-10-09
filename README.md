@@ -2,7 +2,7 @@
  [![Website](https://img.shields.io/website?label=manika-lamba.github.io&style=for-the-badge&url=https%3A%2F%2Fmanika-lamba.github.io)](https://manika-lamba.github.io)
  [![Twitter Follow](https://img.shields.io/twitter/follow/lamba_manika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lamba_manika)
 
-## I am a Postdoctoral Research Associate at the School of Information Sciences, University of Illinois Urbana-Champaign. I earned my Ph.D. in Library and Information Science from University of Delhi. My research focuses on information retrieval, digital libraries, social informatics, and scholarly communication using text mining, natural language processing, and machine learning techniques. I have worked extensively with textual data. My work combines qualitative and quantitative methods, including focus groups, survey and field experiments, and computational approaches.
+#### I am a Postdoctoral Research Associate at the School of Information Sciences, University of Illinois Urbana-Champaign. I earned my Ph.D. in Library and Information Science from University of Delhi. My research focuses on information retrieval, digital libraries, social informatics, and scholarly communication using text mining, natural language processing, and machine learning techniques. I have worked extensively with textual data. My work combines qualitative and quantitative methods, including focus groups, survey and field experiments, and computational approaches.
 
 - 🔭 Know more about my first authored book - [Text Mining for Information Professionals: An Uncharted Territory](https://textmining-infopros.github.io/)
 - 🔭 Know more about the [Courses](https://manika-lamba.gitbook.io/courses/courses/introduction) I have taught
