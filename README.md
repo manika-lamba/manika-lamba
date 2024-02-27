@@ -31,25 +31,6 @@ I am a Postdoctoral Research Associate at the School of Information Sciences, Un
 - [Text Mining for Information Professionals: An Uncharted Territory](https://www.springer.com/in/book/9783030850845), Springer Nature[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/textmining-infopros)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://textmining-infopros.github.io/)
 - [Technological Advancements in Library Service Innovation](https://www.igi-global.com/book/technological-advancements-library-service-innovation/274985), IGI Global
 
-### Currents Projects
-
-- [Down the rabbit hole: Polarization and information segregation on YouTube](http://janlo.de/bigssscss/social-cohesion-2022-groningen/projects/#youtube)
-- [Dealing with COVID-19 and Saving People’s Lives in South Asia (SA) Areas and Beyond: A Health Informatics Promotion Project](https://manika-lamba.github.io/project/asist/)
-- [Enabling interactive exploration of rich scientific multigraphs with Neo4j Bloom](https://s4.scienceofscience.org/announcement/microgrants)
-
----
-### 📺 Latest YouTube Videos
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WcMnKg9IpgY
-" target="_blank"><img src="http://img.youtube.com/vi/WcMnKg9IpgY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=w07LlBFrMCY
-" target="_blank"><img src="http://img.youtube.com/vi/w07LlBFrMCY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-➡️ [more videos...](https://youtube.com/channel/UChUjrjKX2pONUZrquNdifUA) or https://manika-lamba.github.io/project/videos/
-
 ---
 
 </details>
