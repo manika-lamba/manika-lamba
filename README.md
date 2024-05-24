@@ -46,8 +46,5 @@ I am an incoming Assistant Professor at the School of Library and Information St
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=manika-lamba)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manika-lamba)  
-
-![Profile views](https://gpvc.arturio.dev/manika-lamba)  
  
  
