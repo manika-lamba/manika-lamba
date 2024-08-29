@@ -2,7 +2,7 @@
  [![Website](https://img.shields.io/website?label=manika-lamba.github.io&style=for-the-badge&url=https%3A%2F%2Fmanika-lamba.github.io)](https://manika-lamba.github.io)
  [![Twitter Follow](https://img.shields.io/twitter/follow/lamba_manika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lamba_manika)
 
-I am an incoming Assistant Professor at the School of Library and Information Studies, University of Oklahoma from fall 2024. Currently, I am working as a Postdoctoral Research Associate at the School of Information Sciences, University of Illinois Urbana-Champaign. I earned my Ph.D. in Information Science from University of Delhi. My research focuses on information retrieval, computational social science, science of science with particular emphasis on social representation and policy. I have worked extensively with textual data. My work combines qualitative and quantitative methods, including focus groups, survey and field experiments, and computational approaches.
+I am an Assistant Professor at the [School of Library and Information Studies, University of Oklahoma](https://www.ou.edu/cas/slis). Previously, I was a Postdoctoral Research Associate at the [School of Information Sciences, University of Illinois Urbana-Champaign](https://ischool.illinois.edu/) with [HathiTrust Research Services](https://analytics.hathitrust.org/) under the mentorship of [Dr. John Stephen Downie](https://ischool.illinois.edu/people/j-stephen-downie). I earned my Ph.D. in Information Science from University of Delhi. My research focuses on information retrieval, computational social science, science of science with particular emphasis on social representation and policy. I have worked extensively with textual data. My work combines qualitative and quantitative methods, including focus groups, survey and field experiments, and computational approaches.
 
 - 🔭 Know more about my first authored book - [Text Mining for Information Professionals: An Uncharted Territory](https://textmining-infopros.github.io/)
 - 🔭 Know more about the [Courses](https://manika-lamba.gitbook.io/courses/courses/introduction) I have taught
@@ -45,6 +45,3 @@ I am an incoming Assistant Professor at the School of Library and Information St
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manika-lamba)  
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=manika-lamba)](https://github.com/ryo-ma/github-profile-trophy)
-
- 
- 
