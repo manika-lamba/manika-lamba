@@ -39,6 +39,3 @@ I am an Assistant Professor at the [School of Library and Information Studies, U
   <summary>:zap: GitHub Stats</summary>
 
  ![Manika](https://github-readme-stats.vercel.app/api?username=manika-lamba&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=radical)
-
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=manika-lamba)](https://github.com/ryo-ma/github-profile-trophy)
