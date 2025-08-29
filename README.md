@@ -10,17 +10,9 @@ I am an Assistant Professor at the [School of Library and Information Studies, U
 - 📫 How to reach me: lambamanika07@gmail.com
 - 😄 Pronouns: She/her
 
-<br/>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manika-lamba)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manika-lamba-978282a2/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/lamba_manika)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UChUjrjKX2pONUZrquNdifUA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://manika-lamba.github.io)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://manika-lamba.github.io)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.co.uk/citations?user=sfRS9iwAAAAJ&hl=en)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/academia.svg' alt='academia' height='40'>](https://du-in.academia.edu/ManikaLamba)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Manika_Lamba3) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@lambamanika07)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>](https://orcid.org/0000-0002-2022-3098)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/publons.svg' alt='publons' height='40'>](https://publons.com/researcher/1395631/manika-lamba/)  
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
