@@ -7,7 +7,7 @@ I am an Assistant Professor at the [School of Library and Information Studies, U
 - 🔭 Know more about my first authored book - [Text Mining for Information Professionals: An Uncharted Territory](https://textmining-infopros.github.io/)
 - 🔭 Know more about the [Courses](https://manika-lamba.gitbook.io/courses/courses/introduction) I have taught
 - 👯 I’m looking to collaborate with other researchers in the computational social science field
-- 📫 How to reach me: lambamanika07@gmail.com
+- 📫 How to reach me: manika@ou.edu
 - 😄 Pronouns: She/her
 
 
